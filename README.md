@@ -1,5 +1,5 @@
 # Projeto1
 
-## Gessica veiga
+## Gessica Veiga
 ---
 ### Sistemas de Informação CEST
