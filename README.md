@@ -2,4 +2,4 @@
 
 ## Gessica Veiga
 ---
-### Sistemas de Informação ~~CEST
+### Sistemas de Informação ~~ CEST ~~
